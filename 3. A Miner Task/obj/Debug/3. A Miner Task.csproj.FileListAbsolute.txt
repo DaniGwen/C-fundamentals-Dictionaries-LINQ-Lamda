@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\obj\Debug\3. A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\bin\Debug\_3.A_Miner_Task.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. A Miner Task\obj\Debug\_3.A_Miner_Task.pdb

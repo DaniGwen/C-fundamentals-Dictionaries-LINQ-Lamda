@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\bin\Debug\LetterRepetition.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\bin\Debug\LetterRepetition.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\bin\Debug\LetterRepetition.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\obj\Debug\LetterRepetition.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\obj\Debug\LetterRepetition.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\LetterRepetition\obj\Debug\LetterRepetition.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\bin\Debug\Countries.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\bin\Debug\Countries.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\bin\Debug\Countries.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\obj\Debug\Countries.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\obj\Debug\Countries.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Countries\obj\Debug\Countries.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\bin\Debug\raznomernosti.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\bin\Debug\raznomernosti.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\bin\Debug\raznomernosti.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\obj\Debug\raznomernosti.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\obj\Debug\raznomernosti.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\raznomernosti\obj\Debug\raznomernosti.pdb

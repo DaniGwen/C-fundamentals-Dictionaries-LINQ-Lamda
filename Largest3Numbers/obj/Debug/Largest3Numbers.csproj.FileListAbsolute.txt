@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\obj\Debug\Largest3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Largest3Numbers\obj\Debug\Largest3Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\bin\Debug\Anonymous Cashe.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\bin\Debug\Anonymous Cashe.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\bin\Debug\Anonymous Cashe.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\obj\Debug\Anonymous Cashe.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\obj\Debug\Anonymous Cashe.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Anonymous Cashe\obj\Debug\Anonymous Cashe.pdb

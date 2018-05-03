@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.exe
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.pdb
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.exe
+c:\users\user\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\bin\Debug\demo.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\demo\obj\Debug\demo.pdb

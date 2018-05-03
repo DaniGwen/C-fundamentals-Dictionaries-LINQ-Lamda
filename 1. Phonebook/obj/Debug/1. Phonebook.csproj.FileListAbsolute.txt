@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\bin\Debug\_1.Phonebook.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\bin\Debug\_1.Phonebook.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\bin\Debug\_1.Phonebook.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\obj\Debug\_1.Phonebook.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\obj\Debug\_1.Phonebook.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\1. Phonebook\obj\Debug\1. Phonebook.csprojResolveAssemblyReference.cache

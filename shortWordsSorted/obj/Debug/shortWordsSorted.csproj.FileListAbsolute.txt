@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\shortWordsSorted\bin\Debug\shortWordsSorted.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\shortWordsSorted\bin\Debug\shortWordsSorted.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\shortWordsSorted\bin\Debug\shortWordsSorted.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\shortWordsSorted\obj\Debug\shortWordsSorted.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\shortWordsSorted\obj\Debug\shortWordsSorted.pdb

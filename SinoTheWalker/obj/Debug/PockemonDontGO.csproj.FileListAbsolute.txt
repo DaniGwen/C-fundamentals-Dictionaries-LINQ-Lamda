@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\bin\Debug\SinoTheWalker.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\bin\Debug\SinoTheWalker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\bin\Debug\SinoTheWalker.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\obj\Debug\PockemonDontGO.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\obj\Debug\SinoTheWalker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SinoTheWalker\obj\Debug\SinoTheWalker.pdb

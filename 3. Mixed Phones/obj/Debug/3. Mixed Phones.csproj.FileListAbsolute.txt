@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\bin\Debug\_3.Mixed_Phones.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\obj\Debug\3. Mixed Phones.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\obj\Debug\_3.Mixed_Phones.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\3. Mixed Phones\obj\Debug\_3.Mixed_Phones.pdb

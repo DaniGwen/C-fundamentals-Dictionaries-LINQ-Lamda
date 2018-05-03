@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\bin\Debug\SoftUni Karaoke.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\SoftUni Karaoke\obj\Debug\SoftUni Karaoke.pdb

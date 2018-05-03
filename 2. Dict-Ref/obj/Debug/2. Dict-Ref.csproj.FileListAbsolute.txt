@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\bin\Debug\_2.Dict_Ref.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\bin\Debug\_2.Dict_Ref.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\obj\Debug\2. Dict-Ref.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\obj\Debug\_2.Dict_Ref.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\2. Dict-Ref\obj\Debug\_2.Dict_Ref.pdb

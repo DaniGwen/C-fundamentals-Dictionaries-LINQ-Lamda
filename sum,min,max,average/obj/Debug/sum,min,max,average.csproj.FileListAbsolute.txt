@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\sum,min,max,average\bin\Debug\sum,min,max,average.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\sum,min,max,average\bin\Debug\sum,min,max,average.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\sum,min,max,average\bin\Debug\sum,min,max,average.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\sum,min,max,average\obj\Debug\sum,min,max,average.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\sum,min,max,average\obj\Debug\sum,min,max,average.pdb

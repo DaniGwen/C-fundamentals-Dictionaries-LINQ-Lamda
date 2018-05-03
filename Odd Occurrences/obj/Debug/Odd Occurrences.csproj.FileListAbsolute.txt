@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Fund.Dictionaries, Lambda and LINQ\Odd Occurrences\obj\Debug\Odd Occurrences.pdb
