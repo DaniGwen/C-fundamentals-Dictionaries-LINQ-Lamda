@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+5bEpeeNNHNestCZCJD3czwSternkv+Y1zRXhngxr0LgETaoVVWqwBXt/FcCM4tlCc1+ly7St3kOd+uozv1mw==",
+  "dgSpecHash": "uQt7TqDa2u4+wMmbtUxcyA41iSarOD00X+nzs9gNCQYxIjfWLUvHicgtRL4mPrFwt28Yw5wFW4nIBFpAwX65fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem1.PasswordReset.csproj",
+  "projectFilePath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem1.PasswordReset\\Problem1.PasswordReset.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\AW\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
