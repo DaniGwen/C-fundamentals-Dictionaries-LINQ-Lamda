@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingFundamentalsFinalExam04042020", "ProgrammingFundamentalsFinalExam04.04.2020\ProgrammingFundamentalsFinalExam04042020.csproj", "{7F7AB2A8-AD05-403E-BC0E-72D7E29E7936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem1.PasswordReset", "ProgrammingFundamentalsFinalExam04.04.2020\Problem1.PasswordReset.csproj", "{7F7AB2A8-AD05-403E-BC0E-72D7E29E7936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.FancyBarcodes", "Problem2.FancyBarcodes\Problem2.FancyBarcodes.csproj", "{F366AEBF-8039-4447-BC34-F778B5A9F684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem2.FancyBarcodes", "Problem2.FancyBarcodes\Problem2.FancyBarcodes.csproj", "{F366AEBF-8039-4447-BC34-F778B5A9F684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.HeroesofCodeandLogicVII", "Problem3.HeroesofCodeandLogicVII\Problem3.HeroesofCodeandLogicVII.csproj", "{D0803D99-C110-4468-9865-CF87D6FFFB15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem3.HeroesofCodeandLogicVII", "Problem3.HeroesofCodeandLogicVII\Problem3.HeroesofCodeandLogicVII.csproj", "{D0803D99-C110-4468-9865-CF87D6FFFB15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

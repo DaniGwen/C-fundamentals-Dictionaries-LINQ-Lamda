@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\Problem2.FancyBarcodes.csproj",
+      "projectUniqueName": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\Problem2.FancyBarcodes.csproj",
       "projectName": "Problem2.FancyBarcodes",
-      "projectPath": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\Problem2.FancyBarcodes.csproj",
+      "projectPath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\Problem2.FancyBarcodes.csproj",
       "packagesPath": "C:\\Users\\AW\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\obj\\",
+      "outputPath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem2.FancyBarcodes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AW\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj": {}
+    "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj": {
+    "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj",
+        "projectUniqueName": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj",
         "projectName": "Problem3.HeroesofCodeandLogicVII",
-        "projectPath": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj",
+        "projectPath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\Problem3.HeroesofCodeandLogicVII.csproj",
         "packagesPath": "C:\\Users\\AW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\obj\\",
+        "outputPath": "C:\\Users\\AW\\Documents\\GitHub\\C-fundamentals-Dictionaries-LINQ-Lamda\\ProgrammingFundamentalsFinalExam04.04.2020\\Problem3.HeroesofCodeandLogicVII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AW\\AppData\\Roaming\\NuGet\\NuGet.Config",
