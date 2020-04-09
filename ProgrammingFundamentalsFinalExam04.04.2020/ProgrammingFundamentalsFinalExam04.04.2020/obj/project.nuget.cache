@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aT3J+5PXqpit3u80w/Doc280KMsBjJBJn2rjWHdUNl6VDdkClDdl/RnRll8Mn8OKpOdQ1SH4WsK6q9MNBJnrfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AW\\Documents\\GitHub\\Programming Fundamentals\\ProgrammingFundamentalsFinalExam04.04.2020\\ProgrammingFundamentalsFinalExam04.04.2020\\ProgrammingFundamentalsFinalExam04042020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

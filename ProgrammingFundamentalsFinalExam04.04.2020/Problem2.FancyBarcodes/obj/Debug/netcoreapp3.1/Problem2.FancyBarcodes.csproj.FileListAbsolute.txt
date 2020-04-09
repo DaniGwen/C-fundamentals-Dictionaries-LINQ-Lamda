@@ -1,0 +1,13 @@
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.exe
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.deps.json
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.dll
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\bin\Debug\netcoreapp3.1\Problem2.FancyBarcodes.pdb
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.csprojAssemblyReference.cache
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.dll
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.pdb
+C:\Users\AW\Documents\GitHub\Programming Fundamentals\ProgrammingFundamentalsFinalExam04.04.2020\Problem2.FancyBarcodes\obj\Debug\netcoreapp3.1\Problem2.FancyBarcodes.genruntimeconfig.cache
